@@ -4,7 +4,7 @@ def sub(a, b):
 
 if __name__ == "__main__":
     print("--- CHƯƠNG TRÌNH TÍNH HIỆU ---")
-    # Nhập dữ liệu và ép kiểu sang số thực (float)
+    # Nhập dữ liệu (float)
     a = float(input("Mời bạn nhập số a: "))
     b = float(input("Mời bạn nhập số b: "))
     
