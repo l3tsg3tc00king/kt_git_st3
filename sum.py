@@ -10,3 +10,4 @@ if __name__ == "__main__":
     
     # In kết quả
     print(f"Kết quả phép cộng {a} + {b} là: {sum(a, b)}")
+    
